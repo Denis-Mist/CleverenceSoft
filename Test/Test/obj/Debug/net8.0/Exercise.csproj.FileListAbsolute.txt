@@ -1,0 +1,14 @@
+C:\Users\ddm22\source\repos\Test\Test\bin\Debug\net8.0\Exercise.exe
+C:\Users\ddm22\source\repos\Test\Test\bin\Debug\net8.0\Exercise.deps.json
+C:\Users\ddm22\source\repos\Test\Test\bin\Debug\net8.0\Exercise.runtimeconfig.json
+C:\Users\ddm22\source\repos\Test\Test\bin\Debug\net8.0\Exercise.dll
+C:\Users\ddm22\source\repos\Test\Test\bin\Debug\net8.0\Exercise.pdb
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\Exercise.AssemblyInfo.cs
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\Exercise.dll
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\refint\Exercise.dll
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\Exercise.pdb
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\Exercise.genruntimeconfig.cache
+C:\Users\ddm22\source\repos\Test\Test\obj\Debug\net8.0\ref\Exercise.dll

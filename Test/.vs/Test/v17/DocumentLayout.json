@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddm22\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|c:\\users\\ddm22\\source\\repos\\test\\test\\ex3\\logparsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|solutionrelative:test\\ex3\\logparsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|c:\\users\\ddm22\\source\\repos\\test\\test\\ex3\\logmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|solutionrelative:test\\ex3\\logmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547252D-9608-409B-968B-1116635A68F6}|Tests\\Tests.csproj|c:\\users\\ddm22\\source\\repos\\test\\tests\\logstandardizertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547252D-9608-409B-968B-1116635A68F6}|Tests\\Tests.csproj|solutionrelative:tests\\logstandardizertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|c:\\users\\ddm22\\source\\repos\\test\\test\\ex3\\logprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|solutionrelative:test\\ex3\\logprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547252D-9608-409B-968B-1116635A68F6}|Tests\\Tests.csproj|c:\\users\\ddm22\\source\\repos\\test\\tests\\stringcompressortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547252D-9608-409B-968B-1116635A68F6}|Tests\\Tests.csproj|solutionrelative:tests\\stringcompressortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547252D-9608-409B-968B-1116635A68F6}|Tests\\Tests.csproj|c:\\users\\ddm22\\source\\repos\\test\\tests\\serverbasictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C547252D-9608-409B-968B-1116635A68F6}|Tests\\Tests.csproj|solutionrelative:tests\\serverbasictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|c:\\users\\ddm22\\source\\repos\\test\\test\\ex1\\stringcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|solutionrelative:test\\ex1\\stringcompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|c:\\users\\ddm22\\source\\repos\\test\\test\\ex2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Exercise.csproj|solutionrelative:test\\ex2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Test.csproj|c:\\users\\ddm22\\source\\repos\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09652FF-6882-474B-8432-4A4461357593}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C547252D-9608-409B-968B-1116635A68F6}|Tests\\Tests.csproj|c:\\users\\ddm22\\source\\repos\\test\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C547252D-9608-409B-968B-1116635A68F6}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogStandardizerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Tests\\LogStandardizerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\LogStandardizerTests.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Tests\\LogStandardizerTests.cs",
+              "RelativeToolTip": "Tests\\LogStandardizerTests.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwPIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:32:43.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex3\\LogProcessor.cs",
+              "RelativeDocumentMoniker": "Test\\Ex3\\LogProcessor.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex3\\LogProcessor.cs",
+              "RelativeToolTip": "Test\\Ex3\\LogProcessor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:31:56.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogParsers.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex3\\LogParsers.cs",
+              "RelativeDocumentMoniker": "Test\\Ex3\\LogParsers.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex3\\LogParsers.cs",
+              "RelativeToolTip": "Test\\Ex3\\LogParsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:28:45.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogModels.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex3\\LogModels.cs",
+              "RelativeDocumentMoniker": "Test\\Ex3\\LogModels.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex3\\LogModels.cs",
+              "RelativeToolTip": "Test\\Ex3\\LogModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:28:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerBasicTests.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Tests\\ServerBasicTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServerBasicTests.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Tests\\ServerBasicTests.cs",
+              "RelativeToolTip": "Tests\\ServerBasicTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:08:37.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex2\\Server.cs",
+              "RelativeDocumentMoniker": "Test\\Ex2\\Server.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex2\\Server.cs",
+              "RelativeToolTip": "Test\\Ex2\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:07:26.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T09:48:36.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringCompressorTests.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Tests\\StringCompressorTests.cs",
+              "RelativeDocumentMoniker": "Tests\\StringCompressorTests.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Tests\\StringCompressorTests.cs",
+              "RelativeToolTip": "Tests\\StringCompressorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:46:38.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringCompressor.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex1\\StringCompressor.cs",
+              "RelativeDocumentMoniker": "Test\\Ex1\\StringCompressor.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Ex1\\StringCompressor.cs",
+              "RelativeToolTip": "Test\\Ex1\\StringCompressor.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:46:07.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\ddm22\\source\\repos\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:39:04.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
